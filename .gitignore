@@ -1,0 +1,9 @@
+*.o
+*.map
+*.elf
+*.bin
+.vscode*
+*.dat
+*.md
+*.pdf
+build*
